@@ -1,0 +1,8 @@
+setuptools
+transformers
+accelerate
+huggingface_hub
+matplotlib
+git+https://github.com/huggingface/diffusers.git
+sentencepiece
+protobuf
